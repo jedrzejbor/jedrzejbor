@@ -4,6 +4,8 @@
 
 I'm a passionate Full Stack Developer with extensive experience in modern web technologies. I specialize in building scalable, performant, and accessible web applications using cutting-edge frameworks and best practices.
 
+my web: www.dualweb.pl
+
 ---
 
 ## 💻 Technical Skills
