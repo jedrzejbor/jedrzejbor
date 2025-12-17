@@ -19,7 +19,7 @@ My web: www.dualweb.pl
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-- **UI Libraries & Frameworks:** Material-UI (MUI), Tailwind CSS, Styled Components
+- **UI Libraries & Frameworks:** Shadcn, Material-UI (MUI), Tailwind CSS, Styled Components
 - **Build Tools:** Webpack, Vite, Babel, ESBuild
 - **State Management:** Redux, Zustand, Context API, React Query
 - **Responsive Design:** Mobile-first approach, CSS Grid, Flexbox
