@@ -128,8 +128,6 @@ My web: www.dualweb.pl
 ## 🌱 Currently Exploring
 
 - Advanced system design patterns
-- Kubernetes and container orchestration
-- Serverless architecture
 - AI/ML integration in web applications
 
 ---
