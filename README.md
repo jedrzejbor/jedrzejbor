@@ -87,7 +87,7 @@ My web: www.dualweb.pl
 
 #### Security
 - **Web Security:** HTTPS, CORS, XSS prevention, CSRF protection, Content Security Policy
-- **Data Validation:** Joi, Yup, Zod, class-validator
+- **Data Validation:** Zod, class-validator
 - **Rate Limiting:** Request throttling, DDoS protection
 - **Secrets Management:** Environment variables, secret vaults
 
